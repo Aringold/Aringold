@@ -18,15 +18,5 @@
     <p>💻 4 years' computer science and technology education.</p>
     <p>🏢 6+ years' experience as a professional software architect.</p>
   </div>
-  <p align="center" style="margin-top: 50px;">
-    <a href="https://www.linkedin.com/in/suzukidavid" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="60" /></a>
-    &nbsp;&nbsp;
-    <a href="mailto:davidsuzuki51@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="60" /></a>
-    &nbsp;&nbsp;
-     <a href="https://linkpage.bio/suzukidavid" target="_blank" rel="noopener noreferrer"><img src="https://github.com/suzukidavid/suzukidavid/blob/master/icons/qr1.png" alt="qr" height="100" /></a>
-    &nbsp;&nbsp;
-    <a href="https://join.skype.com/invite/wDpwy4t21eVg" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png" width="60" /></a>
-    &nbsp;&nbsp;
-    <a href="https://t.me/suzukidavid" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png" width="60" /></a>
-  </p>
+  
 </div>
